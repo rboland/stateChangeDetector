@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.gmail.rwboland.stateChangeDetector","c":"StateChangeDetector","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.gmail.rwboland.stateChangeDetector","c":"StateChangeDetector","l":"StateChangeDetector()","url":"%3Cinit%3E()"}]

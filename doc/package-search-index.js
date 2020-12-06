@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"stateChangeDetector","l":"com.gmail.rwboland.stateChangeDetector"}]
