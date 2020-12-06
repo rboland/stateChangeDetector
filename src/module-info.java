@@ -6,5 +6,4 @@
  *
  */
 module stateChangeDetector {
-	requires junit;
 }
